@@ -1,0 +1,85 @@
+REPORTE DE ESTADÍSTICAS
+==================================================
+
+Total de registros: 317846
+Total de columnas: 76
+
+Registros por año:
+
+Columnas en el dataset:
+- consecutive
+- cod_eve
+- fec_not
+- semana
+- ano
+- cod_pre
+- cod_sub
+- edad
+- uni_med
+- nacionalidad
+- nombre_nacionalidad
+- sexo
+- cod_pais_o
+- cod_dpto_o
+- cod_mun_o
+- area
+- ocupacion
+- tip_ss
+- cod_ase
+- per_etn
+- gru_pob
+- nom_grupo
+- estrato
+- gp_discapa
+- gp_desplaz
+- gp_migrant
+- gp_carcela
+- gp_gestan
+- sem_ges
+- gp_indigen
+- gp_pobicfb
+- gp_mad_com
+- gp_desmovi
+- gp_psiquia
+- gp_vic_vio
+- gp_otros
+- fuente
+- cod_pais_r
+- cod_dpto_r
+- cod_mun_r
+- cod_dpto_n
+- cod_mun_n
+- fec_con
+- ini_sin
+- tip_cas
+- pac_hos
+- fec_hos
+- con_fin
+- fec_def
+- ajuste
+- fecha_nto
+- cer_def
+- cbmte
+- fec_arc_xl
+- fec_aju
+- fm_fuerza
+- fm_unidad
+- fm_grado
+- confirmados
+- consecutive_origen
+- va_sispro
+- estado_final_de_caso
+- nom_est_f_caso
+- nom_upgd
+- pais_ocurrencia
+- nombre_evento
+- departamento_ocurrencia
+- municipio_ocurrencia
+- pais_residencia
+- departamento_residencia
+- municipio_residencia
+- departamento_notificacion
+- municipio_notificacion
+- a_o_datos
+- archivo_origen
+- partici_n

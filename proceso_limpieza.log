@@ -1,0 +1,16 @@
+2025-06-17 18:45:12,302 - INFO - Se encontraron 4 archivos CSV para procesar
+2025-06-17 18:45:12,302 - INFO - Leyendo archivo: C:\Users\Alex\Documents\PinoParcial\Datos_2020_210.csv
+2025-06-17 18:45:13,699 - INFO - Archivo Datos_2020_210.csv procesado correctamente
+2025-06-17 18:45:13,699 - INFO - Leyendo archivo: C:\Users\Alex\Documents\PinoParcial\Datos_2021_210.csv
+2025-06-17 18:45:14,641 - INFO - Archivo Datos_2021_210.csv procesado correctamente
+2025-06-17 18:45:14,643 - INFO - Leyendo archivo: C:\Users\Alex\Documents\PinoParcial\Datos_2022_210.csv
+2025-06-17 18:45:15,828 - INFO - Archivo Datos_2022_210.csv procesado correctamente
+2025-06-17 18:45:15,828 - INFO - Leyendo archivo: C:\Users\Alex\Documents\PinoParcial\Datos_2023_210.csv
+2025-06-17 18:45:18,090 - INFO - Archivo Datos_2023_210.csv procesado correctamente
+2025-06-17 18:45:25,871 - INFO - Se encontraron 64943 registros para el Valle del Cauca
+2025-06-17 18:45:27,328 - INFO - Reporte de estadísticas generado en: C:\Users\Alex\Documents\PinoParcial\reporte_estadisticas_20250617_184527.txt
+2025-06-17 18:45:27,328 - INFO - Reporte de estadísticas generado en: C:\Users\Alex\Documents\PinoParcial\valle_cauca_reporte_estadisticas_20250617_184527.txt
+2025-06-17 18:45:27,328 - INFO - Archivos combinados y limpios exitosamente en: C:\Users\Alex\Documents\PinoParcial\datos_combinados_limpios_20250617_184518.csv
+2025-06-17 18:45:27,328 - INFO - Datos del Valle del Cauca guardados en: C:\Users\Alex\Documents\PinoParcial\datos_valle_cauca_20250617_184518.csv
+2025-06-17 18:45:27,328 - INFO - Total de registros combinados: 317846
+2025-06-17 18:45:27,328 - INFO - Total de registros Valle del Cauca: 64943
